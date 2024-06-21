@@ -30,29 +30,6 @@ print(DataFrame(db))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # from bs4 import BeautifulSoup
 #
 # # Open and read the HTML file with the specified encoding (UTF-8)
